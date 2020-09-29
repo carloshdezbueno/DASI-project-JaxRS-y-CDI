@@ -1,2 +1,2 @@
-# Proyeto-DASI-JaxRS-y-CDI
-Proyecto de diseño de sistemas de informacion utilizando JaxRS y CDI. Esta compuesto de un backend y un frontend.
+# DASI-project-JaxRS-y-CDI
+DASI project using JaxRS and CDI. It is composed of a backend and a frontend.
